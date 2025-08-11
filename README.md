@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey👋,  I’m Aditya Raj..<br>(Pursuing CSE @ NIT Jamshedpur)<br><br>💻 **Full-stack Developer** passionate about creating high-quality, scalable web applications.  <br><br>⚡ Skilled in **React, Node.js, MongoDB** with a focus on clean UI and seamless UX.   <br><br>📚 Always learning - from **modern JavaScript patterns** to **serverless architectures**. <br> <br>🛠 Enjoy experimenting with animations, responsive design, and performance optimization.  <br><br>📬Visit my portfolio:  https://yk-aditya.vercel.app<br><br><br>"Code, learn, repeat - because great things are built line by line."</p>
+<h1 align="left">Hey👋,  I’m Aditya Raj..<br>(Pursuing CSE @ NIT Jamshedpur)</h1><br><br>💻 **Full-stack Developer** passionate about creating high-quality, scalable web applications.  <br><br>⚡ Skilled in **React, Node.js, MongoDB** with a focus on clean UI and seamless UX.   <br><br>📚 Always learning - from **modern JavaScript patterns** to **serverless architectures**. <br> <br>🛠 Enjoy experimenting with animations, responsive design, and performance optimization.  <br><br>📬Visit my portfolio:  https://yk-aditya.vercel.app<br><br><br>"Code, learn, repeat - because great things are built line by line."</p>
 
 ###
 
