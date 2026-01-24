@@ -1,14 +1,14 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aditraj24.aditraj24&right_color=crimson"  /> -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aditraj24.aditraj24&right_color=crimson" /> 
 
-<h1 align="left">Hey 👋, I’m Aditya Raj  
+<h1 align="left">Hey, I’m Aditya  
 <br />(CSE @ NIT Jamshedpur)</h1>
 
 <p>
-💻 Full-stack developer who enjoys building scalable and clean web applications.<br><br>
+Full-stack developer who enjoys building scalable and clean web applications.<br><br>
 I mostly work with NEXTJS, MERN and focus on writing simple, maintainable code with good UI/UX.<br><br>
 I like experimenting with animations, responsive layouts, and improving overall user experience.<br><br>
-📬 Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</a>
+Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</a>
 </p>
 
 <h3>Code, learn, repeat — great things are built one line at a time.</h3>
