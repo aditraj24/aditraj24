@@ -13,7 +13,7 @@ Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</
 
 <h3>Code, learn, repeat — great things are built one line at a time.</h3>
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2dmxjMXdyZnppenVpNjNnaXZqa3E0ODJwMWJnbHVncWt0NnZubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" />
+
 
 <h2 align="center">Tech Stack</h2>
 
@@ -64,7 +64,7 @@ Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
   </a>
 </div>
-
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2dmxjMXdyZnppenVpNjNnaXZqa3E0ODJwMWJnbHVncWt0NnZubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" />
 <br clear="both">
 
 <div align="left">
