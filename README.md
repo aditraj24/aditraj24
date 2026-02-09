@@ -68,7 +68,7 @@ Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</
 <!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2dmxjMXdyZnppenVpNjNnaXZqa3E0ODJwMWJnbHVncWt0NnZubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" /> -->
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditraj24&show_icons=true&count_private=true&theme=dracula&hide_border=true"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=aditraj24&show_icons=true&count_private=true&theme=dracula&hide_border=true"/> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditraj24&theme=dracula&ar"/>
 </div>
 
