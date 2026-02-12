@@ -11,7 +11,7 @@ I like experimenting with animations, responsive layouts, and improving overall 
 Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</a>
 </p>
 
-<h3>Code, learn, repeat — great things are built one line at a time.</h3>
+<h3>Learn—>Code—>Repeat</h3>
 
 
 
