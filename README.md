@@ -69,7 +69,7 @@ Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</
 
 <div align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=aditraj24&show_icons=true&count_private=true&theme=dracula&hide_border=true"/> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditraj24&theme=dracula&ar"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0bince&theme=dracula&ar"/>
 </div>
 
 
