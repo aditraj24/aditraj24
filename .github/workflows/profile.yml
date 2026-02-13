@@ -28,3 +28,22 @@ jobs:
           git add .
           git diff-index --quiet HEAD || git commit -m "Update 3D graph"
           git push
+
+
+
+
+ # Generate Summary Cards
+      - name: Generate Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: r0bince
+
+      - name: Commit Summary Cards
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-summary-card-output/
+          git diff-index --quiet HEAD || git commit -m "Update summary cards"
+          git push
+
