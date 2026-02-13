@@ -3,7 +3,7 @@
 <h3 align="center">CSE @ NIT Jamshedpur | Full Stack Developer</h3>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="700px" />
+  <img src="profile-3d-contrib/profile-night-green.svg" width="700px" />
 </div>
 <br/>
 
