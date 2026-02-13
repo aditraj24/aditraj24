@@ -1,25 +1,14 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=r0bince.r0bince&right_color=crimson" /> -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aditraj24.aditraj24&right_color=crimson" />
-<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h1 align="center">Hi, I'm Aditya</h1>
 <h3 align="center">CSE @ NIT Jamshedpur | Full Stack Developer</h3>
 
 <p align="center">
 Building scalable, clean and performant web applications.<br>
 Focused on NEXT.js, MERN & modern UI/UX engineering.
 </p>
+<p align ='center'>🌐 Portfolio: https://yk-aditya.vercel.app</p>
 
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer (NEXT.js / MERN)
-- 🎯 Interested in scalable systems & UI engineering
-- 🧠 Love building clean & maintainable architecture
-- 🌐 Portfolio: https://yk-aditya.vercel.app
-
----
-
-# 📊 3D Contribution Graph
 
 ![](https://raw.githubusercontent.com/r0bince/r0bince/main/profile-3d-contrib/profile-night-view.svg)
 
