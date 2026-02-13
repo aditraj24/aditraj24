@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=r0bince.r0bince&right_color=crimson" />
-
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=r0bince.r0bince&right_color=crimson" /> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aditraj24.aditraj24&right_color=crimson" />
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">CSE @ NIT Jamshedpur | Full Stack Developer</h3>
 
