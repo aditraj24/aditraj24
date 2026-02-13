@@ -51,15 +51,22 @@
 
 ## My GitHub Stats
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    src="https://raw.githubusercontent.com/r0bince/r0bince/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+    width="500px"
+  />
+  <!-- <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=r0bince&theme=tokyonight&hide_border=true" 
+    height="200"
+  /> -->
+</div>
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="700px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0bince&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=r0bince&theme=tokyo-night" 
+    width="850px"
+  />
 </div>
-  <br/>
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0bince&theme=tokyo-night" />
-</div>
-
 
 ## Let's Connect!
 
