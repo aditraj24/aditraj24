@@ -53,11 +53,13 @@
 
 <div align="center">
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="700px" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0bince&theme=tokyonight&hide_border=true" />
+</div>
+  <br/>
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0bince&theme=tokyo-night" />
 </div>
-</div>
+
 
 ## Let's Connect!
 
