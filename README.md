@@ -45,6 +45,11 @@
   <div style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=postman,figma,blender" />
   </div>
+  <br/>
+  <!-- OS -->
+  <div style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  </div>
 </div>
 
 ## My GitHub Stats
