@@ -12,12 +12,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
+      
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
-        
+        with:
+          username: r0bince
         env:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: r0bince
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
