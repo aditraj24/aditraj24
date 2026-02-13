@@ -1,81 +1,85 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aditraj24.aditraj24&right_color=crimson"  /> -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aditraj24.aditraj24&right_color=crimson" /> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=r0bince.r0bince&right_color=crimson" />
 
-<h1 align="left">Hey, I’m Aditya  
-<br />(CSE @ NIT Jamshedpur)</h1>
+<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h3 align="center">CSE @ NIT Jamshedpur | Full Stack Developer</h3>
 
-<p>
-Full-stack developer who enjoys building scalable and clean web applications.<br><br>
-I mostly work with NEXTJS, MERN and focus on writing simple, maintainable code with good UI/UX.<br><br>
-I like experimenting with animations, responsive layouts, and improving overall user experience.<br><br>
-Portfolio: <a href="https://yk-aditya.vercel.app">https://yk-aditya.vercel.app</a>
+<p align="center">
+Building scalable, clean and performant web applications.<br>
+Focused on NEXT.js, MERN & modern UI/UX engineering.
 </p>
 
-<h3>Learn—>Code—>Repeat</h3>
+---
 
-## 📊 3D Contribution Graph
+## 🚀 About Me
+
+- 💻 Full Stack Developer (NEXT.js / MERN)
+- 🎯 Interested in scalable systems & UI engineering
+- 🧠 Love building clean & maintainable architecture
+- 🌐 Portfolio: https://yk-aditya.vercel.app
+
+---
+
+# 📊 3D Contribution Graph
 
 ![](https://raw.githubusercontent.com/r0bince/r0bince/main/profile-3d-contrib/profile-night-view.svg)
 
+---
 
+# 📈 GitHub Stats
 
-<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r0bince&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0bince&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-</div>
+---
 
-<h2>Connect with me</h2>
+# 🏆 GitHub Trophies
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aditraj24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=r0bince&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r0bince&theme=tokyo-night"/>
+
+---
+
+# 📌 Profile Summary Cards
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/r0bince/r0bince/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+  <img src="https://raw.githubusercontent.com/r0bince/r0bince/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+  <img src="https://raw.githubusercontent.com/r0bince/r0bince/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,mysql,cpp,csharp,python,linux,tailwind,bootstrap,figma" />
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditraj24">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/adit.raj24" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+  <a href="https://x.com/adit_raj24">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://x.com/adit_raj24" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
+  <a href="https://www.instagram.com/adit.raj24">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
-<br clear="both">
-<!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2dmxjMXdyZnppenVpNjNnaXZqa3E0ODJwMWJnbHVncWt0NnZubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" /> -->
+</p>
 
-<div align="left">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=aditraj24&show_icons=true&count_private=true&theme=dracula&hide_border=true"/> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0bince&theme=dracula&ar"/>
-</div>
+---
 
-
-
-
+<h3 align="center">Learn → Build → Scale → Repeat 🚀</h3>
