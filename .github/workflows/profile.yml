@@ -1,10 +1,6 @@
 name: Generate GitHub Profile Assets
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -21,16 +17,15 @@ jobs:
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          username: r0bince
         env:
+          USERNAME: r0bince
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: r0bince
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push changes
         run: |
