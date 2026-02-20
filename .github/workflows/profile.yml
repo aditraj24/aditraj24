@@ -27,7 +27,7 @@ jobs:
           USERNAME: r0bince
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit & Push changes
+      - name: Commit & Push all changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
