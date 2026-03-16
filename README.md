@@ -56,7 +56,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img 
-    src="https://raw.githubusercontent.com/r0bince/r0bince/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+    src="https://raw.githubusercontent.com/aditraj24/aditraj24/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
     width="600px"
   />
   <!-- <img 
@@ -66,7 +66,7 @@
 </div>
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=r0bince&theme=tokyo-night" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aditraj24&theme=tokyo-night" 
     width="700px"
   />
 </div>
