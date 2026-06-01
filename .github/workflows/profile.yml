@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
@@ -21,22 +21,20 @@ jobs:
           USERNAME: aditraj24
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Commit 3D Contribution Graph
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Update 3D contribution graph" && git push)
+
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           USERNAME: aditraj24
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Check generated files
+      - name: Commit Summary Cards
         run: |
-          echo "Checking for generated files..."
-          find . -type f -name "*.svg" | head -20
-          ls -la profile-3d-contrib/ 2>/dev/null || echo "No profile-3d-contrib directory"
-          ls -la profile-summary-card-output/ 2>/dev/null || echo "No profile-summary-card-output directory"
-
-      - name: Commit & Push all changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || (git commit -m "Update GitHub profile stats" && git push)
+          git diff --cached --quiet || (git commit -m "Update profile summary cards" && git push)
